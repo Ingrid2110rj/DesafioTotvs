@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/Ingrid2110rj/DesafioTotvs/blob/main/logo-start-tech.jpeg)
+![Logo](https://github.com/Ingrid2110rj/DesafioTotvs/blob/main/Logo.jpeg)
 
 ## DESAFIO DE AUTOMATIZAÇÃO DO START TECH 2021
 
