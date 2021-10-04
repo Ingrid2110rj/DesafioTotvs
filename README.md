@@ -1,6 +1,6 @@
 Desafio QA 
 
-DESAFIO DE AUTOMATIZAÇÃO DO STARTECH 2021
+DESAFIO DE AUTOMATIZAÇÃO DO START TECH 2021
 
 1- Desafio WEB 
 Candidato deverá automatizar o site da Store https://totvs.store
