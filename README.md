@@ -1,11 +1,13 @@
 
 ![Logo](https://github.com/Ingrid2110rj/DesafioTotvs/blob/main/Logo.jpeg)
 
+
+
 ## DESAFIO DE AUTOMATIZAÇÃO DO START TECH 2021
 
-### Etapas do Desafio:
+###  Etapas do Desafio:
 
-##### 1- Desafio WEB 
+##### :triangular_flag_on_post: 1- Desafio WEB 
 
 Candidato deverá automatizar o site da Store https://totvs.store
 
@@ -15,7 +17,9 @@ Candidato deverá automatizar o site da Store https://totvs.store
 - Adicionar o produto ao carrinho e validar nome e valor (devem ser iguais ao da tela do produto)
 * Importante o uso de Page Objects, Reports, Hooks, Print de evidência de sucesso e Cucumber 
 
-##### 2 - Desafio API 
+---
+
+##### :triangular_flag_on_post: 2 - Desafio API 
 
 Candidado deverá acessar o Swagger http://fakerestapi.azurewebsites.net/ e automatizar o endpoint /api/v1/Books.
 
